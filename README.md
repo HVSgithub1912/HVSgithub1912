@@ -68,9 +68,10 @@ A file and directory management tool built using Python's pathlib.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HVSgithub1912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVSgithub1912&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HVSgithub1912&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVSgithub1912&layout=compact&theme=tokyonight" height="165" />
 </p>
+
 
 ## 🔥 Contribution Streak
 
