@@ -23,22 +23,28 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- C++
-- Java
-- SQL
+### 💻 Programming Languages
 
-**AI Engineering**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangGraph
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
 
-**Core Concepts**
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
+### 🤖 AI Engineering
 
----
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+</p>
+
+### 🧠 Core Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge" />
+</p>
+
 
 ## 🚀 Featured Projects
 
