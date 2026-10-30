@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 [PacketLens]([https://github.com/HVSgithub1912](https://github.com/HVSgithub1912/VectoRAG))
+### 🔍 [PacketLens]([(https://github.com/HVSgithub1912/VectoRAG])
 
 Network packet inspection and traffic analysis tool.
 
