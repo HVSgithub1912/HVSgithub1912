@@ -48,18 +48,22 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 PacketLens
-A network packet inspection and traffic analysis project.
+### 🔍 [PacketLens](https://github.com/HVSgithub1912)
 
-### 🧠 VectoRAG
-A C++ vector database and RAG search engine.
+Network packet inspection and traffic analysis tool.
 
-### 🤖 AI Engineering
-A documented learning journey covering Python, LLMs,
-prompt engineering, RAG, LangGraph, and AI projects.
+### 🧠 [VectoRAG](https://github.com/HVSgithub1912)
 
-### 📁 DirWizard
-A file and directory management tool built using Python's pathlib.
+C++ vector database with HNSW, KD-Tree, semantic search, and a local LLM-powered RAG pipeline.
+
+### 🤖 [AI Engineering](https://github.com/HVSgithub1912)
+
+Documenting my AI Engineering journey through LLMs, prompt engineering, RAG, and LangGraph.
+
+### 📁 [DirWizard](https://github.com/HVSgithub1912)
+
+Python-based file and directory management tool using `pathlib`.
+
 
 ---
 
